@@ -1,6 +1,6 @@
 # BDFD-Global-Economy
 
-A BDFD global economy commands.
+A BDFD global economy commands. Make sure to ⭐ the project!
 
 ## Table of contents
 * [Features](#features)
