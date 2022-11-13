@@ -26,25 +26,25 @@ A BDFD global economy commands. Make sure to ⭐ the project!
 
 1. Can I use this code?
 
-Yes you can, but make sure to give credits to syn#6554 (777531013622399006)!
+   Yes you can, but make sure to give credits to syn#6554 (777531013622399006)!
 
 2. The bot is not responding to me!?
 
-* Make sure your bot is online.
-* Make sure the token inputted into the app matches the one in the Developer Portal.
-* Make sure you typed the right trigger.
-* Trying watching a ad or saving a command.
+    * Make sure your bot is online.
+    * Make sure the token inputted into the app matches the one in the Developer Portal.
+    * Make sure you typed the right trigger.
+    * Trying watching a ad or saving a command.
 
 3. Why I'm getting the "❌ Failed to find variable named '[x]'! Please add that variable in the app!" error?
 
-You need to create the variable in the app. If that doesn’t work, try enabling unstable mode.
+   You need to create the variable in the app. If that doesn’t work, try enabling unstable mode.
 
 4. What scripting languange used in this code(s)?
 
-BDScript 2
+   BDScript 2
 
 5. What variables do I need to add in the app?
 
-Read the "Variables" in read me or see the "Table of contents" and then click "Variables".
+   Read the "Variables" in read me or see the "Table of contents" and then click "Variables".
 
-Do you have more questions to ask? Feel free to DM me and send me a friend request (syn#6554) or ping me in BDFD Official server.
+### Do you have more questions to ask? Feel free to DM me and send me a friend request (syn#6554) or ping me in BDFD Official server.
